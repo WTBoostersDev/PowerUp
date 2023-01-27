@@ -324,7 +324,7 @@
     position: relative;
 }
 
-.portfolio-img::before,
+/* .portfolio-img::before,
 .portfolio-img::after {
     position: absolute;
     content: "";
@@ -351,7 +351,7 @@
 .portfolio-item:hover .portfolio-img::after {
     width: 51%;
     right: 0;
-}
+} */
 
 .portfolio-btn {
     position: absolute;
@@ -367,10 +367,10 @@
     transition: .5s;
 }
 
-.portfolio-item:hover .portfolio-btn {
+/* .portfolio-item:hover .portfolio-btn {
     opacity: 1;
     transition-delay: .3s;
-}
+} */
 
 
 /*** Quote ***/
